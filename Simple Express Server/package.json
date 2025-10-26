@@ -1,0 +1,15 @@
+{
+  "name": "simple-express-server",
+  "version": "1.0.0",
+  "description": "simple express server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "koushik05alpha",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
