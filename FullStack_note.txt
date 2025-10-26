@@ -1,0 +1,26 @@
+= Project initialization korar jonno --> npm init
+
+= Express install korar jonno --> npm i express
+
+= in package.json -- > "scripts": {
+   			 "start": "node server.js"
+ 			 },
+= js a amra 2 vaba file niya kaj kortay pari - commonJS , moduleJS
+				moduleJS - > import express from "express";
+
+
+= in front end api req send use --> npm i axios (over the top editional power day - ae libiraly basicly use hoy web req. korar jonno, data kivaba astaycha , kivaba handle hocha,filed hola kihoba , loading hola kivaba , maja data ta stop kora kicu change hoba ki na , )
+
+= CROS - Cross-Origin Request
+url alada tahole o  Cross-Origin Request
+port alada tahole o  Cross-Origin Request
+ip whitelist is solution 
+
+= proxy - export default defineConfig({
+  server: {
+    proxy: {
+      "/api": "http://localhost:3000"
+    }
+  },
+  plugins: [react()],
+})
