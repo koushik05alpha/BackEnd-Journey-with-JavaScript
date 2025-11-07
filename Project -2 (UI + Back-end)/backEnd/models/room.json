@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Modern Minimalist Hotel Room",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1578683010236-d7168578d523?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 2200,
+    "maxcount": 2,
+    "type": "Standard",
+    "phonenumber": "9876543210",
+    "currentbooking": [],
+    "description": "A clean and minimalist hotel room with a comfortable bed and natural light."
+  },
+  {
+    "name": "Luxury Suite with City View",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1560949272-39294971c26f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 4500,
+    "maxcount": 4,
+    "type": "Suite",
+    "phonenumber": "9123456789",
+    "currentbooking": [],
+    "description": "Spacious luxury suite with a stunning city view and elegant furnishings."
+  },
+  {
+    "name": "Cozy Boutique Hotel Room",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1549294413-26f19527c289?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 1800,
+    "maxcount": 2,
+    "type": "Standard",
+    "phonenumber": "9988776655",
+    "currentbooking": [],
+    "description": "A charming and cozy room in a boutique hotel, perfect for a relaxing stay."
+  },
+  {
+    "name": "Beachfront Hotel Room",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 3800,
+    "maxcount": 3,
+    "type": "Delux",
+    "phonenumber": "9090909090",
+    "currentbooking": [],
+    "description": "Enjoy the sound of waves from this beautiful beachfront hotel room."
+  },
+  {
+    "name": "Executive Business Hotel Room",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1623167198884-0a3000b99113?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 2800,
+    "maxcount": 2,
+    "type": "Standard",
+    "phonenumber": "9871234567",
+    "currentbooking": [],
+    "description": "Designed for business travelers, offering comfort and a functional workspace."
+  },
+  {
+    "name": "Romantic Getaway Room",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1596436889106-be35e1f09afb?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 3200,
+    "maxcount": 2,
+    "type": "Delux",
+    "phonenumber": "9988001122",
+    "currentbooking": [],
+    "description": "Perfect for couples, this room offers a romantic ambiance and amenities."
+  },
+  {
+    "name": "Family-Friendly Hotel Room",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1621293676757-550608552178?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 3000,
+    "maxcount": 4,
+    "type": "Delux",
+    "phonenumber": "9876789876",
+    "currentbooking": [],
+    "description": "Spacious room with ample space for families, ensuring a comfortable stay for everyone."
+  },
+  {
+    "name": "Rustic Charm Hotel Room",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 2500,
+    "maxcount": 3,
+    "type": "Standard",
+    "phonenumber": "9098123456",
+    "currentbooking": [],
+    "description": "Experience rustic charm with modern comforts in this unique hotel room."
+  },
+  {
+    "name": "Urban Chic Hotel Room",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1563228929-e2b58706f866?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 2700,
+    "maxcount": 2,
+    "type": "Standard",
+    "phonenumber": "9000001122",
+    "currentbooking": [],
+    "description": "Stylish and contemporary room located in the heart of the city."
+  },
+  {
+    "name": "Classic Elegance Hotel Room",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542661405-b0035041440f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 3500,
+    "maxcount": 3,
+    "type": "Suite",
+    "phonenumber": "9989649278",
+    "currentbooking": [],
+    "description": "A timeless design with classic furnishings and an elegant atmosphere."
+  },
+  {
+    "name": "Vibrant and Modern Room",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1606558661642-1e9d1a389140?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 2100,
+    "maxcount": 2,
+    "type": "Standard",
+    "phonenumber": "9876543210",
+    "currentbooking": [],
+    "description": "Bright and lively room with contemporary decor, perfect for a cheerful stay."
+  },
+  {
+    "name": "Serene Mountain Retreat Room",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1522798603212-9c1719b4b0e9?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 2600,
+    "maxcount": 3,
+    "type": "Delux",
+    "phonenumber": "9123456789",
+    "currentbooking": [],
+    "description": "Escape to tranquility in this serene room with beautiful mountain views."
+  },
+  {
+    "name": "Penthouse Luxury Suite",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1579717148906-8d6263f458e0?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 6000,
+    "maxcount": 5,
+    "type": "Suite",
+    "phonenumber": "9988776655",
+    "currentbooking": [],
+    "description": "The ultimate in luxury, offering panoramic views and top-tier amenities."
+  },
+  {
+    "name": "Budget-Friendly Twin Room",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1549646538-4b77f805a968?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 1200,
+    "maxcount": 2,
+    "type": "Standard",
+    "phonenumber": "9090909090",
+    "currentbooking": [],
+    "description": "An economical choice with comfortable twin beds, perfect for friends or colleagues."
+  },
+  {
+    "name": "Art Deco Inspired Room",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1566073771259-d3428f522857?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 3300,
+    "maxcount": 3,
+    "type": "Delux",
+    "phonenumber": "9871234567",
+    "currentbooking": [],
+    "description": "Step back in time with this elegant Art Deco themed hotel room."
+  },
+  {
+    "name": "Sophisticated Urban Loft",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1568494921915-181559e248b6?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 4000,
+    "maxcount": 3,
+    "type": "Suite",
+    "phonenumber": "9988001122",
+    "currentbooking": [],
+    "description": "A stylish urban loft with high ceilings and a modern, open design."
+  },
+  {
+    "name": "Historic Charm Room",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1570197426301-8b010c79318b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 2900,
+    "maxcount": 2,
+    "type": "Delux",
+    "phonenumber": "9876789876",
+    "currentbooking": [],
+    "description": "Experience the rich history and unique character of this charming room."
+  },
+  {
+    "name": "Spa & Wellness Room",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1600880292203-757bb62b2baf?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 3700,
+    "maxcount": 2,
+    "type": "Suite",
+    "phonenumber": "9098123456",
+    "currentbooking": [],
+    "description": "Designed for relaxation, featuring spa-like amenities for ultimate comfort."
+  },
+  {
+    "name": "Compact City Room",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1623250552784-1804c7c34d31?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 1600,
+    "maxcount": 1,
+    "type": "Standard",
+    "phonenumber": "9000001122",
+    "currentbooking": [],
+    "description": "A clever and efficient use of space, ideal for solo travelers in the city."
+  },
+  {
+    "name": "Panoramic View Room",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1596707431267-33a7f8b9e672?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 4200,
+    "maxcount": 3,
+    "type": "Delux",
+    "phonenumber": "9989649278",
+    "currentbooking": [],
+    "description": "Wake up to breathtaking panoramic views from this premium hotel room."
+  },
+  {
+    "name": "Garden View Retreat",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1590499690184-e3c7c251d14e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 2300,
+    "maxcount": 2,
+    "type": "Standard",
+    "phonenumber": "9876543210",
+    "currentbooking": [],
+    "description": "Relax and unwind with lush garden views from your private sanctuary."
+  },
+  {
+    "name": "Executive City Studio",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1623250627724-4f4a30e8c8a1?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 2900,
+    "maxcount": 2,
+    "type": "Delux",
+    "phonenumber": "9123456789",
+    "currentbooking": [],
+    "description": "A sleek studio apartment within a hotel, ideal for extended stays in the city."
+  },
+  {
+    "name": "Colonial Style Room",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1626388414441-2a9a7a93a8d9?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 3100,
+    "maxcount": 3,
+    "type": "Suite",
+    "phonenumber": "9988776655",
+    "currentbooking": [],
+    "description": "Step into the past with this beautifully maintained colonial-style hotel room."
+  },
+  {
+    "name": "Contemporary Design Room",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1549294413-488f2868a27d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 2400,
+    "maxcount": 2,
+    "type": "Standard",
+    "phonenumber": "9090909090",
+    "currentbooking": [],
+    "description": "Clean lines and modern aesthetics define this contemporary hotel room."
+  },
+  {
+    "name": "Accessible Room",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1609100867727-2c9c5f6f4c8a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 2000,
+    "maxcount": 2,
+    "type": "Standard",
+    "phonenumber": "9871234567",
+    "currentbooking": [],
+    "description": "Thoughtfully designed for accessibility, ensuring comfort for all guests."
+  },
+  {
+    "name": "Lake View Room",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1596436889106-be35e1f09afb?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 3400,
+    "maxcount": 3,
+    "type": "Delux",
+    "phonenumber": "9988001122",
+    "currentbooking": [],
+    "description": "Enjoy peaceful views of the lake from this relaxing hotel room."
+  },
+  {
+    "name": "Rooftop Pool Access Room",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1579717148906-8d6263f458e0?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 4800,
+    "maxcount": 2,
+    "type": "Suite",
+    "phonenumber": "9876789876",
+    "currentbooking": [],
+    "description": "Direct access to the stunning rooftop pool, offering exclusive leisure."
+  },
+  {
+    "name": "Pet-Friendly Room",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1623167198884-0a3000b99113?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 2200,
+    "maxcount": 2,
+    "type": "Standard",
+    "phonenumber": "9098123456",
+    "currentbooking": [],
+    "description": "Bring your furry friends along to this comfortable pet-friendly accommodation."
+  },
+  {
+    "name": "Eco-Friendly Room",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 2500,
+    "maxcount": 2,
+    "type": "Standard",
+    "phonenumber": "9000001122",
+    "currentbooking": [],
+    "description": "Designed with sustainability in mind, offering a guilt-free and comfortable stay."
+  },
+  {
+    "name": "Artist's Loft Room",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1563228929-e2b58706f866?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 2800,
+    "maxcount": 2,
+    "type": "Delux",
+    "phonenumber": "9989649278",
+    "currentbooking": [],
+    "description": "Unique and inspiring space, perfect for creative individuals."
+  },
+  {
+    "name": "Minimalist Loft Suite",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1560949272-39294971c26f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 3800,
+    "maxcount": 3,
+    "type": "Suite",
+    "phonenumber": "9876543210",
+    "currentbooking": [],
+    "description": "Spacious and elegant loft suite with a focus on minimalist design."
+  },
+  {
+    "name": "Spacious Deluxe Room",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1549294413-26f19527c289?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 2700,
+    "maxcount": 3,
+    "type": "Delux",
+    "phonenumber": "9123456789",
+    "currentbooking": [],
+    "description": "A generously sized deluxe room offering extra comfort and amenities."
+  },
+  {
+    "name": "Standard Comfort Room",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1578683010236-d7168578d523?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "rentperday": 1900,
+    "maxcount": 2,
+    "type": "Standard",
+    "phonenumber": "9988776655",
+    "currentbooking": [],
+    "description": "Comfortable and well-appointed standard room for a pleasant stay."
+  }
+]

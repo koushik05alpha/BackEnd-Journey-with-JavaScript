@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    background: #333;
+    color: #fff;
+}
+
+.navbar{
+    background: #434344;
+}
+
+.navbar-brand, .nav-link{
+    color: #fff;
+    transition: 0.5s ease-in-out;
+}
+
+.navbar-brand:hover{
+    color: red;
+    transform: scale(1.1);
+}
+
+.nav-link:hover{
+    color: red;
+}
+
+.navbar-nav{
+    margin-left: auto;
+}
+
+.smallImg{
+    height: 250px;
+    width: 400px;
+    
+}
